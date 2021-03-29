@@ -1,8 +1,7 @@
 #include "amqp.h"
-
 #include <stdio.h>
 
-#include "../examples/utils.h"
+#include "utils.h"
 
 int main()
 {
